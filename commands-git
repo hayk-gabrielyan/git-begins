@@ -9,3 +9,6 @@ Les 3 commandes de push (dans l'ordre)
 	$ git commit -m ["commentaire de commit"]
 	$ git push
 
+La commande qui permet de pull est :
+$ git pull
+qui permet de récupèrer tout l'historique du dépôt nommé et incorpore les modifications
