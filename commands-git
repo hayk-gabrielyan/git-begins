@@ -1,0 +1,11 @@
+Les symboles $ ont le but d'indiquer les commandes
+
+Pour cloner un repo on utilise la commande suivante :
+$ git clone [lien de repsitoire]
+
+Les 3 commandes de push (dans l'ordre)
+3 Commades qui permettent de push sont les suivantes:
+	$ git add --all
+	$ git commit -m ["commentaire de commit"]
+	$ git push
+
