@@ -12,3 +12,9 @@ Les 3 commandes de push (dans l'ordre)
 La commande qui permet de pull est :
 $ git pull
 qui permet de récupèrer tout l'historique du dépôt nommé et incorpore les modifications
+
+La commande qui permet de créer une branche est la suivante:
+	$ git branch [nom-de-branche]
+
+La commande permettant de switcher de branche est la suivante:
+	$ git checkout [nom-de-branche]
